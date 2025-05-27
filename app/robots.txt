@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+Sitemap: https://bokepterbarupijat.pages.dev/sitemap.xml
